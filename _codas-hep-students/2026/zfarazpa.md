@@ -23,4 +23,4 @@ Developing physics-aware machine learning methods for detector reconstruction an
 Scientific machine learning
 
 ## I want to know more about:
-Beam physics, accelerator computing, and modern software tools for high-energy physics.
+How to choose the most appropriate neural network architecture for different applications, efficient parallel computing, and modern AI software tools for HEP.
